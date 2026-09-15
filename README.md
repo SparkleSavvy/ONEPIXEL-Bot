@@ -1,2 +1,2 @@
 # ONEPIXEL-Bot
-Bot for managing your local minecraft server through discord.
+Discord bot for managing your local Minecraft server
